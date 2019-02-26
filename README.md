@@ -1,13 +1,13 @@
 # Kiyoaki Tsurutani
 Professional with experience in smartphone game development, operation and engineering team management.
 
-# Contact
+## Contact
 
 * [Email](mailto:kiyoaki.tsurutani@gmail.com)
 * [Facebook](https://www.facebook.com/k.tsurutani)
 * [Twitter](https://twitter.com/k_tsurutani)
 
-# Work experience
+## Work experience
 
 Freelance : 2016/7 - 2019/2
 --
@@ -78,7 +78,7 @@ Java (Struts), PostgreSQL
 
 Java (Swing), Oracle
 
-# Skills
+## Skills
 
 * Client-side C# Unity
 * Server-side C# ASP.NET Core
