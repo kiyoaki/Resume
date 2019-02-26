@@ -9,8 +9,7 @@ Professional with experience in smartphone game development, operation and engin
 
 ## Work experience
 
-Freelance : 2016/7 - 2019/2
---
+### Freelance : 2016/7 - 2019/2
 
 * Software Development at Game Company's Research establishment : 2016/7 - 2016/10
 
@@ -20,14 +19,14 @@ Unity, C# (ASP.NET Core), AWS (EC2, S3, CloudFront, Route53), Terraform
 
 JavaScript, Python, MySQL, Redis
 
-[Cloud9 Inc.](https://cloud9-plus.com/) : 2014/7 - 2016/6
---
+### [Cloud9 Inc.](https://cloud9-plus.com/) : 2014/7 - 2016/6
+
 Co-Founder & CTO. Smartphone game development, operation and engineering team management.
 
 Unity, C# (ASP.NET), Microsoft Azure (App Service, Application Insights, Redis Cache, SQL Database), AWS (Route53), Google Cloud Platform (BigQuery), Akamai CDN
 
-[gloops, Inc.](http://gloops.com/) : 2011/10 - 2014/6
---
+### [gloops, Inc.](http://gloops.com/) : 2011/10 - 2014/6
+
 All projects using JavaScript, C# (ASP.NET), SQL Server, Redis, IIS, Nginx, Windows Server
 
 * Engineering Manager [グロリアスブレイズ](https://www.google.com/search?q=グロリアスブレイズ) : 2013/8 - 2014/5
@@ -40,8 +39,8 @@ All projects using JavaScript, C# (ASP.NET), SQL Server, Redis, IIS, Nginx, Wind
 
 * Engineering Manager [大進撃!!ドラゴン騎士団](https://www.google.com/search?q=大進撃!!ドラゴン騎士団) : 2011/10 - 2012/3
 
-[BAIT AL- HIKMA, LTD.](https://www.bai.co.jp/) : 2008/3 - 2011/10
---
+### [BAIT AL- HIKMA, LTD.](https://www.bai.co.jp/) : 2008/3 - 2011/10
+
 * Insurance call center system development
 
 Java (Struts), Oracle
