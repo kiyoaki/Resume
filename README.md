@@ -11,7 +11,15 @@ Professional with experience in smartphone game development, operation and engin
 
 ### Freelance ([Crane Valley LLC.](https://www.crane-valley.co.jp/)) : `2016/7` - Now
 
-* Software Development at Game Company's Research establishment : `2016/10` - Now
+* Game Development at Game Company : `2019/6` - Now
+
+Unreal Engine 4, C++
+
+* Development server side application for [そうだんドットミー](https://www.so-dan.me/) : `2019/1` - Now
+
+Unity, C# (ASP.NET Core Razor Pages), Microsoft Azure (App Service, Application Insights, Redis Cache, SQL Database, CDN Premium from Verizon), AWS (Route53)
+
+* Software Development at Game Company's Research establishment : `2016/10` - `2019/5`
 
 Unity, C# (ASP.NET Core), AWS (EC2, S3, CloudFront, Route53), Terraform
 
