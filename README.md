@@ -17,7 +17,7 @@ Unreal Engine 4, C++
 
 * Development server side application for [そうだんドットミー](https://www.so-dan.me/) : `2019/1` - Now
 
-Unity, C# (ASP.NET Core Razor Pages), Microsoft Azure (App Service, Application Insights, Redis Cache, SQL Database, CDN Premium from Verizon), AWS (Route53)
+C# (ASP.NET Core Razor Pages), Microsoft Azure (App Service, Application Insights, Redis Cache, SQL Database, CDN Premium from Verizon), AWS (Route53)
 
 * Software Development at Game Company's Research establishment : `2016/10` - `2019/5`
 
