@@ -13,7 +13,7 @@ Professional with experience in smartphone game development, operation and engin
 
 * Game Development at Game Company : `2019/6` - Now
 
-Unreal Engine 4, C++
+Unreal Engine 4.24 - 4.25, C++
 
 * Game performance optimization for Nintendo Switch at Game Company : `2020/2` - `2020/6`
 
