@@ -41,15 +41,11 @@ Co-Founder & CTO. Smartphone game development, operation and engineering team ma
 
 All projects using JavaScript, C# (ASP.NET), SQL Server, Redis, IIS, Nginx, Windows Server
 
-* Engineering Manager [グロリアスブレイズ](https://www.google.com/search?q=グロリアスブレイズ) : `2013/8` - `2014/5`
-
-* Engineering Manager [ぷちココ 光とたまごと聖なる樹](https://www.google.com/search?q=ぷちココ+光とたまごと聖なる樹) : `2012/12` - `2013/7`
-
-* Engineering Manager [みんなとバイオハザードクランマスター](https://www.google.com/search?q=みんなとバイオハザードクランマスター) : `2012/6` - `2012/11`
-
-* Engineering Manager [大召喚マジゲート](https://www.google.com/search?q=大召喚マジゲート) : `2012/4` - `2012/5`
-
-* Engineering Manager [大進撃!!ドラゴン騎士団](https://www.google.com/search?q=大進撃!!ドラゴン騎士団) : `2011/10` - `2012/3`
+* Lead programmer [グロリアスブレイズ](https://www.google.com/search?q=グロリアスブレイズ) : `2013/8` - `2014/5`
+* Lead programmer [ぷちココ 光とたまごと聖なる樹](https://www.google.com/search?q=ぷちココ+光とたまごと聖なる樹) : `2012/12` - `2013/7`
+* Lead programmer [みんなとバイオハザードクランマスター](https://www.google.com/search?q=みんなとバイオハザードクランマスター) : `2012/6` - `2012/11`
+* Lead programmer [大召喚マジゲート](https://www.google.com/search?q=大召喚マジゲート) : `2012/4` - `2012/5`
+* Lead programmer [大進撃!!ドラゴン騎士団](https://www.google.com/search?q=大進撃!!ドラゴン騎士団) : `2011/10` - `2012/3`
 
 ### [BAIT AL- HIKMA, LTD.](https://www.bai.co.jp/) : `2008/3` - `2011/10`
 
