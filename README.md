@@ -15,7 +15,7 @@ Professional with experience in smartphone game development, operation and engin
 
 Unreal Engine 4, C++
 
-* Development server side application for [そうだんドットミー](https://www.so-dan.me/) : `2019/1` - Now
+* Development server side application for [そうだんドットミー](https://www.google.com/search?q=%E3%81%9D%E3%81%86%E3%81%A0%E3%82%93%E3%83%89%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC) : `2019/1` - `2019/12`
 
 C# (ASP.NET Core Razor Pages), Microsoft Azure (App Service, Application Insights, Redis Cache, SQL Database, CDN Premium from Verizon), AWS (Route53)
 
@@ -33,7 +33,7 @@ Co-Founder & CTO. Smartphone game development, operation and engineering team ma
 
 Unity, C# (ASP.NET), Microsoft Azure (App Service, Application Insights, Redis Cache, SQL Database), AWS (Route53), Google Cloud Platform (BigQuery), Akamai CDN
 
-### [gloops, Inc.](http://gloops.com/) : `2011/10` - `2014/6`
+### [gloops, Inc.](https://www.google.com/search?q=gloops) : `2011/10` - `2014/6`
 
 All projects using JavaScript, C# (ASP.NET), SQL Server, Redis, IIS, Nginx, Windows Server
 
