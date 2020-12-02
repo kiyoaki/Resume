@@ -17,7 +17,7 @@ Unreal Engine 4.24 - 4.25, C++
 
 * Game performance optimization for Nintendo Switch at Game Company : `2020/2` - `2020/6`
 
-Unity 2019, C#
+Unity 2019.2, C#
 
 * Development server side application for [そうだんドットミー](https://www.google.com/search?q=%E3%81%9D%E3%81%86%E3%81%A0%E3%82%93%E3%83%89%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC) : `2019/1` - `2019/12`
 
