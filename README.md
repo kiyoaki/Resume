@@ -13,7 +13,7 @@ Professional with experience in smartphone game development, operation and engin
 
 * Game Development at Game Company : `2019/6` - Now
 
-   Unreal Engine 4.24 - 4.25, C++
+   Unreal Engine 4.24 - 4.26, C++
 
 * Game performance optimization for Nintendo Switch at Game Company : `2020/2` - `2020/6`
 
@@ -87,11 +87,12 @@ All projects using JavaScript, C# (ASP.NET), SQL Server, Redis, IIS, Nginx, Wind
 
 ## Skills
 
-* Client-side C# Unity
-* Server-side C# ASP.NET Core
+* Client-side Unreal Engine C++
+* Client-side Unity C#
+* Server-side ASP.NET Core C#
 * Websites or browser games front-end JavaScript
-* High-load web application's RDBMS (In order of good at SQL Server, MySQL, PostgreSQL, Oracle)
+* High-load web application's RDBMS (SQL Server, MySQL, PostgreSQL, Oracle)
 * Redis
 * Web Server (In order of good at Nginx, IIS, Apache)
-* Used as a job Java, Python etc
+* Java, Python etc
 
