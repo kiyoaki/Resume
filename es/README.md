@@ -1,4 +1,4 @@
-# Kiyoaki Tsurutani (鶴谷 清朗)
+# Kiyoaki Tsurutani (鶴谷 清明)
 
 **Ingeniero sénior de videojuegos / Líder técnico**
 
