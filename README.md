@@ -1,98 +1,22 @@
-# Kiyoaki Tsurutani
-Professional with experience in smartphone game development, operation and engineering team management.
+# Multi-language Resume for Kiyoaki Tsurutani
 
-## Contact
+This repository contains localized versions of Kiyoaki Tsurutani's professional resume. Each language edition has been carefully edited for clarity, consistent layout, and easy navigation.
 
-* [Email](mailto:kiyoaki.tsurutani@gmail.com)
-* [Facebook](https://www.facebook.com/k.tsurutani)
-* [Twitter](https://twitter.com/k_tsurutani)
+## Available Languages
 
-## Work experience
+| Language | Directory |
+| --- | --- |
+| English | [`en/README.md`](en/README.md) |
+| 日本語 (Japanese) | [`jp/README.md`](jp/README.md) |
+| 한국어 (Korean) | [`ko/README.md`](ko/README.md) |
+| 中文（简体）(Chinese, Simplified) | [`zh-hans/README.md`](zh-hans/README.md) |
+| 中文（繁體）(Chinese, Traditional) | [`zh-hant/README.md`](zh-hant/README.md) |
+| Español (Spanish) | [`es/README.md`](es/README.md) |
 
-### Freelance ([Crane Valley LLC.](https://www.crane-valley.co.jp/)) : `2016/7` - Now
+## Structure and Formatting Notes
 
-* Game Development at Game Company : `2019/6` - Now
+- All versions follow the same section order (Contact, Expertise, Experience, Skills, Languages) for quick comparison.
+- Contact details and skill sets are presented in tables to improve readability across screen sizes.
+- Company tenures and responsibilities are summarized with concise bullet lists for scanning.
 
-   Unreal Engine from 4.24 to 5.4.1, C++
-
-* Game performance optimization for Nintendo Switch at Game Company : `2020/2` - `2020/6`
-
-  Unity 2019.2, C#
-
-* Development server side application for [そうだんドットミー](https://www.google.com/search?q=%E3%81%9D%E3%81%86%E3%81%A0%E3%82%93%E3%83%89%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC) : `2019/1` - `2019/12`
-
-  C# (ASP.NET Core Razor Pages), Microsoft Azure (App Service, Application Insights, Redis Cache, SQL Database, CDN Premium from Verizon), AWS (Route53)
-
-* Software Development at Game Company's Research establishment : `2016/10` - `2019/5`
-
-  Unity, C# (ASP.NET Core), AWS (EC2, S3, CloudFront, Route53), Terraform
-
-* Software Development and overseas engineering team management at Website Security Company : `2016/7` - `2016/10`
-
-  JavaScript, Python, MySQL, Redis
-
-### [Cloud9 Inc.](https://cloud9-plus.com/) : `2014/7` - `2016/6`
-
-Co-Founder & CTO. Smartphone game development, operation and engineering team management.
-
-  Unity, C# (ASP.NET), Microsoft Azure (App Service, Application Insights, Redis Cache, SQL Database), AWS (Route53), Google Cloud Platform (BigQuery), Akamai CDN
-
-### [gloops, Inc.](https://www.google.com/search?q=gloops) : `2011/10` - `2014/6`
-
-All projects using JavaScript, C# (ASP.NET), SQL Server, Redis, IIS, Nginx, Windows Server
-
-* Lead programmer [グロリアスブレイズ](https://www.google.com/search?q=グロリアスブレイズ) : `2013/8` - `2014/5`
-* Lead programmer [ぷちココ 光とたまごと聖なる樹](https://www.google.com/search?q=ぷちココ+光とたまごと聖なる樹) : `2012/12` - `2013/7`
-* Lead programmer [みんなとバイオハザードクランマスター](https://www.google.com/search?q=みんなとバイオハザードクランマスター) : `2012/6` - `2012/11`
-* Lead programmer [大召喚マジゲート](https://www.google.com/search?q=大召喚マジゲート) : `2012/4` - `2012/5`
-* Lead programmer [大進撃!!ドラゴン騎士団](https://www.google.com/search?q=大進撃!!ドラゴン騎士団) : `2011/10` - `2012/3`
-
-### [BAIT AL- HIKMA, LTD.](https://www.bai.co.jp/) : `2008/3` - `2011/10`
-
-* Insurance call center system development
-
-  Java (Struts), Oracle
-
-* Resident management system development for emerging countries : `2010/11` - `2011/2`
-
-  Java (Struts), PostgreSQL
-
-* In-house System development corresponding to tax system : `2010/10` - `2010/11`
-
-  Java
-
-* SNS System development, operation and engineering team management for PC school students : `2009/9` - `2009/10`
-
-  Ruby on Rails, MySQL, Apache, AWS(EC2)
-
-* HR System development and engineering team management for China manufacturing industry : `2009/5` - `2009/6`
-
-  Java (Struts), PostgreSQL
-
-* Project management and engineering team management Suzhou offshore development center in China : `2009/4` - `2009/8`
-
-  Java (Struts), PostgreSQL
-
-* In-house SNS development and operation : `2009/3` - `2011/9`
-
-  Ruby (Rails), MySQL, Apache, AWS(EC2)
-
-* Teacher at Wuxi IT school in China : `2009/2` - `2009/5`
-
-  Java (Struts), PostgreSQL
-
-* Credit card call center system development : `2008/3` - `2009/1`
-
-  Java (Swing), Oracle
-
-## Skills
-
-* Client-side Unreal Engine C++
-* Client-side Unity C#
-* Server-side ASP.NET Core C#
-* Websites or browser games front-end JavaScript
-* High-load web application's RDBMS (SQL Server, MySQL, PostgreSQL, Oracle)
-* Redis
-* Web Server (In order of good at Nginx, IIS, Apache)
-* Java, Python etc
-
+Feel free to select the language that best suits your audience or adapt the markdown files for other formats (HTML, PDF, etc.).
