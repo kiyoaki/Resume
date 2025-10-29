@@ -24,7 +24,7 @@
 ### フリーランス · [Crane Valley LLC.](https://www.crane-valley.co.jp/)  
 *シニアゲーム／ソフトウェアエンジニア · 2016年7月〜現在*
 
-- ASP.NET Core/Azure（App Service, Redis Cache, SQL Database）、Akamai CDNを組み合わせたWebサービス開発（2025年10月〜現在）。
+- ASP.NET Core、Azure（App Service, Redis Cache, SQL Database）、Akamai CDNを組み合わせたWebサービス開発（2025年10月〜現在）。
 - Unreal EngineとC++を用いた複数スタジオ向けのゲーム開発（2019年6月〜2025年9月）。
 - Unity 2019.2とC#によるNintendo Switch向けタイトルのパフォーマンスチューニング（2020年2月〜2020年6月）。
 - [そうだんドットミー](https://www.google.com/search?q=%E3%81%9D%E3%81%86%E3%81%A0%E3%82%93%E3%83%89%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC) のサーバーサイドをASP.NET Core Razor Pages、Azure（App Service, Application Insights, Redis Cache, SQL Database, CDN Premium from Verizon）およびAWS Route53で構築（2019年1月〜2019年12月）。
