@@ -1,4 +1,4 @@
-# 鹤谷 清朗（Kiyoaki Tsurutani）
+# 鹤谷 清明（Kiyoaki Tsurutani）
 
 **高级游戏工程师 / 技术负责人**
 
