@@ -9,7 +9,6 @@
 | 種別 | 詳細 |
 | --- | --- |
 | Email | [kiyoaki.tsurutani@gmail.com](mailto:kiyoaki.tsurutani@gmail.com) |
-| Facebook | [facebook.com/k.tsurutani](https://www.facebook.com/k.tsurutani) |
 | Twitter | [twitter.com/k_tsurutani](https://twitter.com/k_tsurutani) |
 
 ## 得意分野
@@ -25,7 +24,8 @@
 ### フリーランス · [Crane Valley LLC.](https://www.crane-valley.co.jp/)  
 *シニアゲーム／ソフトウェアエンジニア · 2016年7月〜現在*
 
-- Unreal EngineとC++を用いた複数スタジオ向けのゲーム開発（2019年6月〜現在）。
+- ASP.NET Core/Azure（App Service, Redis Cache, SQL Database）、Akamai CDNを組み合わせたWebサービス開発（2025年10月〜現在）。
+- Unreal EngineとC++を用いた複数スタジオ向けのゲーム開発（2019年6月〜2025年9月）。
 - Unity 2019.2とC#によるNintendo Switch向けタイトルのパフォーマンスチューニング（2020年2月〜2020年6月）。
 - [そうだんドットミー](https://www.google.com/search?q=%E3%81%9D%E3%81%86%E3%81%A0%E3%82%93%E3%83%89%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC) のサーバーサイドをASP.NET Core Razor Pages、Azure（App Service, Application Insights, Redis Cache, SQL Database, CDN Premium from Verizon）およびAWS Route53で構築（2019年1月〜2019年12月）。
 - Unity、ASP.NET Core、AWS、Terraformを用いた大手ゲーム企業向け研究開発ツールの提供（2016年10月〜2019年5月）。
@@ -65,8 +65,3 @@
 | クラウド・運用 | Microsoft Azure、AWS（EC2, S3, CloudFront, Route53）、Google Cloud（BigQuery）、Akamai CDN、Terraform |
 | データストア | SQL Server、MySQL、PostgreSQL、Oracle、Redis |
 | Webサーバー | Nginx、IIS、Apache |
-
-## 対応言語
-
-- 日本語（ネイティブ）
-- 英語（ビジネス）
